@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\6xjoh\\source\\repos\\MVC-Application-Development\\Git_Hub_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD5C23-F63C-479A-AC81-65D15C0DE7C3}|Git_Hub_Test\\Git_Hub_Test.csproj|c:\\users\\6xjoh\\source\\repos\\mvc-application-development\\git_hub_test\\git_hub_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD5C23-F63C-479A-AC81-65D15C0DE7C3}|Git_Hub_Test\\Git_Hub_Test.csproj|solutionrelative:git_hub_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\6xjoh\\source\\repos\\MVC-Application-Development\\Git_Hub_Test\\Git_Hub_Test\\Program.cs",
+              "RelativeDocumentMoniker": "Git_Hub_Test\\Program.cs",
+              "ToolTip": "C:\\Users\\6xjoh\\source\\repos\\MVC-Application-Development\\Git_Hub_Test\\Git_Hub_Test\\Program.cs",
+              "RelativeToolTip": "Git_Hub_Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T08:48:10.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
