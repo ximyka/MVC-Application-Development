@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Desktop\\MVC-Application-Development\\MVC - Application\\",
+  "WorkspaceRootPath": "C:\\Users\\jonas\\MVC-Application-Development\\MVC - Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56241C20-F8C9-40F0-A515-F29A2420A115}|MVC - Application\\MVC - Application.csproj|c:\\users\\pc\\onedrive\\desktop\\mvc-application-development\\mvc - application\\mvc - application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56241C20-F8C9-40F0-A515-F29A2420A115}|MVC - Application\\MVC - Application.csproj|solutionrelative:mvc - application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9C09322-E105-4741-6DAE-339164F76490}|MVC - Application\\MVC - Application.csproj|c:\\users\\jonas\\mvc-application-development\\mvc - application\\mvc - application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C09322-E105-4741-6DAE-339164F76490}|MVC - Application\\MVC - Application.csproj|solutionrelative:mvc - application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,15 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\MVC-Application-Development\\MVC - Application\\MVC - Application\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\MVC-Application-Development\\MVC - Application\\MVC - Application\\Program.cs",
               "RelativeDocumentMoniker": "MVC - Application\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\MVC-Application-Development\\MVC - Application\\MVC - Application\\Program.cs",
+              "ToolTip": "C:\\Users\\jonas\\MVC-Application-Development\\MVC - Application\\MVC - Application\\Program.cs",
               "RelativeToolTip": "MVC - Application\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
